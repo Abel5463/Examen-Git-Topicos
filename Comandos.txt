@@ -1,0 +1,22 @@
+Comandos del reflog (los más importantes):
+
+git init
+git commit "Readme file"
+git commit "Proyecto agregado"
+git commit "Carpeta unidad 5"
+git commit "Dianelly"
+git commit "Gabriel"
+git commit "Aprobados"
+git branch reporbados
+git checkout reprobados
+git reset --soft 1fee786
+git commit "Nuevos cambios"
+git checkout maester
+git commit "Presentacion power point"
+git commit "Parte 2 del Readme (modificado)"
+git reset --soft 514c03b
+git commit "Viernesito"
+git merge reprobados
+git commit "2 nuevos archivos"
+
+
